@@ -8,6 +8,6 @@ function App() {
       <Experience />
     </Canvas>
   );
-}l
+}
 
 export default App;
