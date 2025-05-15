@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\HP\\Downloads\\Rhubarb-Lip-Sync-1.14.0-Windows\\Rhubarb-Lip-Sync-1.14.0-Windows\\pizza.ogg",
+    "duration": 5.04
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.18, "value": "B" },
+    { "start": 0.18, "end": 0.32, "value": "C" },
+    { "start": 0.32, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.46, "value": "A" },
+    { "start": 0.46, "end": 0.64, "value": "E" },
+    { "start": 0.64, "end": 0.78, "value": "F" },
+    { "start": 0.78, "end": 0.92, "value": "B" },
+    { "start": 0.92, "end": 0.99, "value": "C" },
+    { "start": 0.99, "end": 1.07, "value": "A" },
+    { "start": 1.07, "end": 1.14, "value": "C" },
+    { "start": 1.14, "end": 1.28, "value": "B" },
+    { "start": 1.28, "end": 1.49, "value": "C" },
+    { "start": 1.49, "end": 1.56, "value": "B" },
+    { "start": 1.56, "end": 1.67, "value": "A" },
+    { "start": 1.67, "end": 1.73, "value": "B" },
+    { "start": 1.73, "end": 1.85, "value": "D" },
+    { "start": 1.85, "end": 1.92, "value": "B" },
+    { "start": 1.92, "end": 2.06, "value": "C" },
+    { "start": 2.06, "end": 2.41, "value": "B" },
+    { "start": 2.41, "end": 2.55, "value": "C" },
+    { "start": 2.55, "end": 2.63, "value": "A" },
+    { "start": 2.63, "end": 2.75, "value": "C" },
+    { "start": 2.75, "end": 2.94, "value": "B" },
+    { "start": 2.94, "end": 3.15, "value": "C" },
+    { "start": 3.15, "end": 3.29, "value": "B" },
+    { "start": 3.29, "end": 3.36, "value": "G" },
+    { "start": 3.36, "end": 3.43, "value": "C" },
+    { "start": 3.43, "end": 3.71, "value": "B" },
+    { "start": 3.71, "end": 3.85, "value": "C" },
+    { "start": 3.85, "end": 4.11, "value": "B" },
+    { "start": 4.11, "end": 4.20, "value": "G" },
+    { "start": 4.20, "end": 4.27, "value": "E" },
+    { "start": 4.27, "end": 4.76, "value": "B" },
+    { "start": 4.76, "end": 5.04, "value": "X" }
+  ]
+}
